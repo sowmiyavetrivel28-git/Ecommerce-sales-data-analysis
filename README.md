@@ -41,7 +41,8 @@ The dataset contains details like:
 
 ## Dashboard
 
-![E-Commerce Dashboard]![Uploading Screenshot 2026-06-21 180414.png…]()
+![E-Commerce Dashboard]<img width="926" height="347" alt="Screenshot 2026-06-21 180414" src="https://github.com/user-attachments/assets/bffb9162-672f-48ec-b092-e85ae7c7eff2" />
+
 
 
 I created an interactive dashboard using Excel with charts and slicers. It helps to easily understand:
