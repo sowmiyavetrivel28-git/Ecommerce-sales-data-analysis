@@ -39,6 +39,11 @@ The dataset contains details like:
 
 ## Dashboard
 
+## Dashboard
+
+![E-Commerce Dashboard]![Uploading Screenshot 2026-06-21 180414.png…]()
+
+
 I created an interactive dashboard using Excel with charts and slicers. It helps to easily understand:
 
 * Sales by category
